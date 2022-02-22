@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RRbotics
 - 👀 I’m interested in Robotics and Computer Vision
 - 🌱 I’m currently learning Computer Vision
-- 💞️ Iwould like to collaborate on interesting projects
+- 💞️ I would like to collaborate on interesting projects
 - 📫 My email address: mirroyal.ismayilov@gmail.com
 
 <!---
