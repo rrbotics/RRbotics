@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RRbotics
+- 👋 Hi, I’m @RRbotics (Royal Robotics)
 - 👀 I’m interested in Robotics and Computer Vision
 - 🌱 I’m currently learning Computer Vision
 - 💞️ I would like to collaborate on interesting projects
