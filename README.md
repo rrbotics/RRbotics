@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RRbotics (Royal Robotics)
+- 👋 Hi, I’m @RRbotics
 - 👀 I’m interested in Robotics
 - 🌱 I’m currently learning ROS2
 - 💞️ I would like to collaborate on interesting projects
